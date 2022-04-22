@@ -1,0 +1,31 @@
+body {background-color: rgb(3, 3, 3);
+}
+*{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+
+}
+.wrap{
+    width: 500px;
+    margin: auto;
+    height: auto;
+    background: rgb(34, 7, 236);
+    padding: 35px;
+}
+input[type=text]{
+    width:100%;
+    padding: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 20px;
+    border-radius: 10px;
+   }
+   input[type=button]{
+    width: 59px;
+    padding: 18px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 19px;
+ }
+ 
